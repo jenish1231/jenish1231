@@ -14,37 +14,26 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>   
-<a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redis.io" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+<p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/-bootstrap-darkslateblue?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>   
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/-css3-cornflowerblue?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> 
+<a href="https://dart.dev" target="_blank"> <img src="https://img.shields.io/badge/-dart-darkturquoise?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/-django-darkgreen?style=for-the-badge&logo=django&logoColor=white" alt="django"/> </a> 
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/-docker-dodgerblue?style=for-the-badge&logo=docker&logoColor=white"/> </a> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/-figma-orangered?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/-firebase-gold?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/> </a> 
+  <a href="https://flutter.dev" target="_blank"> <img src="https://img.shields.io/badge/-flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/-git-crimson?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/> </a> 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/> </a> 
+  <a href="https://www.nginx.com" target="_blank"> <img src="https://img.shields.io/badge/-nginx-darkgreen?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-postgresql-darkslateblue?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a> 
+  <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/-postman-tomato?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a> 
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-react-blue?style=for-the-badge&logo=react&logoColor=white" alt="react" /> </a> 
   </a> 
-  <a href="https://lit-element.polymer-project.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/polymer-2.svg" alt="xd" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="xd" width="40" height="40"/> 
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/-aws-gold?style=for-the-badge&logo=amazon&logoColor=white" alt="xd"/> 
   </a> 
 
 </p>
